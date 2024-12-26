@@ -1,0 +1,4 @@
+PyMuPDF==1.25.1
+PyPDF2 @ file:///C:/b/abs_f4tepei_o0/croot/pypdf2_1733841487756/work
+setuptools==75.1.0
+wheel==0.44.0
